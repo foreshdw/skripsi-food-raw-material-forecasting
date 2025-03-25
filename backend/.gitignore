@@ -1,2 +1,3 @@
 /venv/
-/Data Warung Fotkop.xlsx/
+*.xlsx
+*.xls
